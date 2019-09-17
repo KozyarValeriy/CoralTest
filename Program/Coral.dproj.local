@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.097,=E:\Программирование\Delphi\Coral\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,E:\Программирование\Delphi\Coral\Program\edit_offices.dfm=C:\Program\edit_offices.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,E:\Программирование\Delphi\Coral\Program\agencies.dfm=C:\Program\agencies.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,E:\Программирование\Delphi\Coral\Program\Unit5.dfm=E:\Программирование\Delphi\Coral\Program\sale_points.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,E:\Программирование\Delphi\Coral\Program\edit_offices.pas=C:\Program\edit_offices.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit3.pas=E:\Программирование\Delphi\Coral\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,E:\Программирование\Delphi\Coral\Program\main.dfm=C:\Program\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,E:\Программирование\Delphi\Coral\edit_offices.dfm=E:\Программирование\Delphi\Coral\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=E:\Программирование\Delphi\Coral\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Программирование\Delphi\Coral\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,E:\Программирование\Delphi\Coral\edit_offices.pas=E:\Программирование\Delphi\Coral\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,E:\Программирование\Delphi\Coral\agencies.dfm=E:\Программирование\Delphi\Coral\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\Программирование\Delphi\Coral\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,E:\Программирование\Delphi\Coral\Coral.dproj=E:\Программирование\Delphi\Coral\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,E:\Программирование\Delphi\Coral\Program\Coral.dproj=E:\Программирование\Delphi\Coral\Coral.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=E:\Программирование\Delphi\Coral\Program\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,E:\Программирование\Delphi\Coral\Program\Unit5.pas=E:\Программирование\Delphi\Coral\Program\sale_points.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,E:\Программирование\Delphi\Coral\Program\Unit6.dfm=E:\Программирование\Delphi\Coral\Program\change_office.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,E:\Программирование\Delphi\Coral\main.dfm=E:\Программирование\Delphi\Coral\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Программирование\Delphi\Coral\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.200,E:\Программирование\Delphi\Coral\Program\main.pas=C:\Program\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,C:\Users\monqp\Documents\Embarcadero\Studio\Projects\Unit3.dfm=E:\Программирование\Delphi\Coral\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,E:\Программирование\Delphi\Coral\Program\offices.pas=C:\Program\offices.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.715,E:\Программирование\Delphi\Coral\Program\offices.dfm=C:\Program\offices.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=E:\Программирование\Delphi\Coral\Program\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,E:\Программирование\Delphi\Coral\agencies.pas=E:\Программирование\Delphi\Coral\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,E:\Программирование\Delphi\Coral\Program\agencies.pas=C:\Program\agencies.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,E:\Программирование\Delphi\Coral\main.pas=E:\Программирование\Delphi\Coral\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,E:\Программирование\Delphi\Coral\offices.pas=E:\Программирование\Delphi\Coral\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,E:\Программирование\Delphi\Coral\Program\Unit6.pas=E:\Программирование\Delphi\Coral\Program\change_office.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,E:\Программирование\Delphi\Coral\offices.dfm=E:\Программирование\Delphi\Coral\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
